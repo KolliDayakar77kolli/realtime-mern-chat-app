@@ -1,5 +1,4 @@
 <h2>Talker - Realtime Mern Chat Web App</h2>
-<hr>
 <pre>
    • Developed a MERN stack real-time chat application
    • Implemented JWT-based user authentication and encrypted password protection with bcryptjs 
