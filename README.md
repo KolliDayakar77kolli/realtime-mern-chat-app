@@ -9,7 +9,7 @@
    
 <h3>Tech Stack</h3>
 <hr>
-<h4><b>Client:</b> React JS
+<h4><strong>Client:</strong> React JS
 <h4><b>Server:</b> Node JS, Express JS
 <h4><b>Database:</b> Mongo DB
 <br><br>
