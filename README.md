@@ -16,4 +16,4 @@
 
 <h3>Live Preview Link</h3>
 <hr>
-<a>https://realtime-mern-chat-app.onrender.com/</a>
+<a href="https://realtime-mern-chat-app.onrender.com/" target="_blank>Link:</a>
